@@ -14,4 +14,4 @@ with open("rapport.txt", "w", encoding="utf-8") as f:
     f.write(f"- Nombre d'espaces : {nb_espaces}\n")
     f.write(f"- Nombre de voyelles : {nb_voyelles}\n")
 
-print("Rapport complet sauvegardé dans 'rapport.txt'.")
+print("Rapport complet sauvegardé dans 'rapport.txt'.")cd chemin/vers/ton/dossier/Algo_groupe-19-01
